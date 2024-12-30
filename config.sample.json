@@ -1,0 +1,32 @@
+{
+    "allowed_calendar_ids": [
+        "your.email@example.com",
+        "your.private@example.com"
+    ],
+    "skip_summaries": [
+        "Event to skip 1",
+        "Event to skip 2",
+        "Event to skip 3"
+    ],
+    "date_range": {
+        "start": "2024-12-21",
+        "end": "2024-12-28"
+    },
+    "categories": {
+        "work": ["Work"],
+        "morning routine": ["morning routine", "Health"],
+        "kids": ["kids"],
+        "personal tasks": ["tasks", "shopping"],
+        "lunch": ["lunch", "eating"],
+        "chores": ["chores"],
+        "relaxation": ["relaxation", "leisure"],
+        "waste": ["waste"],
+        "commute": ["commute"],
+        "going to sleep": ["going to sleep"],
+        "sleep": ["sleep"],
+        "everything else": ["everything else"],
+        "get up - make it great": ["get up - make it great"],
+        "meditation": ["meditation", "msza"],
+        "family": ["family"]
+    }
+} 
